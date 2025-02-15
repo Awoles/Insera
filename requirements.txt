@@ -5,3 +5,4 @@ requests
 nest-asyncio
 schedule
 python-telegram-bot
+openpyxl
